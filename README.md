@@ -1,4 +1,6 @@
-> Tuum est arbitrium; tuum est pretium.
+<p align="center">
+  <em>Tuum est arbitrium; tuum est pretium.</em>
+</p>
 
 <!--
 **harkerxia/harkerxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
