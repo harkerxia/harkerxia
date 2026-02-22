@@ -1,16 +1,15 @@
-> Tuum est arbitrium; tuum est pretium.
+# Hi there, I'm Harker 👋
 
-<!--
-**harkerxia/harkerxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UBC Computer Science '29** *Building robust systems and exploring the intersection of finance and technology.*
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python (Pandas, NumPy), C++, SQL, Java
+- **Interests:** Quantitative Trading Systems, Algorithmic Development, Distributed Systems
+- **Currently Learning:** High-Frequency Trading (HFT) architectures & Backtesting engines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Quant Progress
+- 🔭 Working on [项目名1]: A brief description of what this tool does.
+- 🌱 Studying: Stochastic Calculus and Time-Series Analysis.
+
+---
+> "Tuum est arbitrium; tuum est pretium."
