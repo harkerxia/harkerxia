@@ -4,12 +4,11 @@
 
 ### 🛠 Tech Stack
 - **Languages:** Python, C/C++, Java, JavaScript
-- **Interests:** Desktop Application Development, Quantitative Trading Systems
+- **Interests:** Cybersecurity, Machine Learning, Quantitative Trading Systems
 
 ### 🚀 Current Progress
-- **file-tamper-detector**: Developing a lightweight integrity-verification tool that utilizes cryptographic hashing to secure important documents.
-- **G.O.A.T** (Generals.io Opening Auxiliary Tool): An algorithmic helper focused on early-game strategy. It implements Manhattan distance heuristics for enemy position prediction and computes optimal shortest paths for speed kills.
-- **Academics**: Focusing on Statistics and Linear Algebra.
+- **diary-frieren**: A telegram bot that let you record and generate diaries via chatting.
+- **harkerx.com**: Personal Website.
 
 ---
 > "Tuum est arbitrium; tuum est pretium."
