@@ -4,7 +4,6 @@
 
 ### 🛠 Tech Stack
 - **Languages:** Python, C/C++, Java, JavaScript
-- **Interests:** Cybersecurity, Machine Learning, Quantitative Trading Systems
 
 ### 🚀 Current Progress
 - **diary-frieren**: A telegram bot that let you record and generate diaries via chatting.
